@@ -1,7 +1,7 @@
 # Adventure-Works-cycles
 🚴 Análisis de Rendimiento y Recuperación de Ventas - "Adventure Works Bicycles"
 
-📊 Optimización de Ventas para Adventure Works Bicycles en el Mercado Asiático
+📊 Optimización de Ventas:
 
 En este proyecto, me centré en revertir la caída de ventas de Adventure Works Bicycles. Utilizando SQL Server y Power BI, gestioné y visualicé grandes volúmenes de datos provenientes de la base AdventureWorksDW2019 y archivos en Excel para generar soluciones efectivas.
 
